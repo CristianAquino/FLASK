@@ -1,0 +1,5 @@
+# no se sube el cache al github
+__pycache__/
+
+# no se sube el entorno virtual al github
+env/
