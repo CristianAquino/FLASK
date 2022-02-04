@@ -3,3 +3,6 @@ __pycache__/
 
 # no se sube el entorno virtual al github
 env/
+
+# no se sube las imagenes al github
+packageUsers/
